@@ -74,6 +74,6 @@ The repository can also be reviewed without deploying Azure infrastructure.
 
 ## Production Extensions
 
-If expanded into a production platform, logical next steps would include Azure Data Factory orchestration, ADLS Gen2 landing, incremental/watermark loads, SCD Type 2 where required, automated quality gates, CI/CD, monitoring, RBAC, lineage/governance, and Power BI semantic modeling.
+If expanded into a production platform, potential next steps would include Azure Data Factory orchestration, ADLS Gen2 landing, incremental/watermark loads, SCD Type 2 where required, automated quality gates, CI/CD, monitoring, RBAC, lineage/governance, and Power BI semantic modeling.
 
 These are documented as future extensions and are not claimed as production implementations in this repository.
